@@ -1,0 +1,7 @@
+Setup Project with CreateReactApp (CRA)
+
+Script สำหรับติดตั้ง create-react-app ลงใน global (เครื่อง)
+sudo npm i -g create-react-app (1 time ต่อเครื่อง)
+
+Script สร้างโปรเจคก์โดย CRA
+npx create-react-app <project-name> ( 1 ครั้ง / Project)
